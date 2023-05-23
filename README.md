@@ -20,7 +20,7 @@ Estes conceitos serão trabalhados em duas etapas:
 1. Aula teórica - Os slides podem ser acessados neste botão: [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/marianabritoazevedo/Minicurso-Python/blob/main/Slides/Dia1-MinicursoPython.pdf)
 2. Aula prática - O notebook pode ser acessado neste botão: [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/marianabritoazevedo/Minicurso-Python/blob/main/Notebooks/Minicurso_Dia1.ipynb)
 
-## 1️⃣ Dia 2 - Avançando com a programação em Python
+## 2️⃣ Dia 2 - Avançando com a programação em Python
 
 No segundo módulo, iremos nos aprofundar nos conhecimentos obtidos anteriormente e plotar um gráfico simples a partir de uma tabela do pandas. Os assuntos a serem trabalhados são:
 
